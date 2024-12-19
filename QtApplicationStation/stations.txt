@@ -1,0 +1,33 @@
+Moscow: Yaroslavsky Vokzal - 55.7834, 37.6176
+Moscow: Kursky Vokzal - 55.7520, 37.6643
+Moscow: Kiyevsky Vokzal - 55.7493, 37.5713
+Moscow: Leningradsky Vokzal - 55.7770, 37.6554
+Moscow: Kazansky Vokzal - 55.7800, 37.6393
+Saint Petersburg: Moskovsky Vokzal - 59.9414, 30.3564
+Saint Petersburg: Vitebsky Vokzal - 59.9260, 30.3610
+Saint Petersburg: Baltiysky Vokzal - 59.9270, 30.2957
+Novosibirsk: Glavny Vokzal - 55.0353, 82.9154
+Yekaterinburg: Yekaterinburg-Passazhirskiy - 56.8352, 60.6055
+Nizhny Novgorod: Vokzal Nizhny Novgorod - 56.3299, 44.0025
+Kazan: Kazansky Vokzal - 55.7887, 49.1254
+Chelyabinsk: Chelyabinsky Vokzal - 55.1568, 61.4018
+Rostov-on-Don: Rostov-Glavny - 47.2357, 39.7178
+Voronezh: Voronezh-1 - 51.6667, 39.1925
+Samara: Samarsky Vokzal - 53.1955, 50.1190
+Krasnoyarsk: Krasnoyarsky Vokzal - 56.0151, 92.8941
+Saratov: Saratov-1 - 51.5353, 46.0384
+Ufa: Ufa-Passazhirskaya - 54.7592, 55.9680
+Omsk: Omsky Vokzal - 54.9733, 73.3833
+Tomsk: Tomsky Vokzal - 56.4975, 84.9793
+Arkhangelsk: Arkhangelsky Vokzal - 64.5531, 40.5319
+Perm: Perm-2 - 58.0302, 56.2602
+Petrozavodsk: Petrozavodsk-Glavny - 61.7833, 34.3667
+Vladikavkaz: Vladikavkazsky Vokzal - 43.0223, 44.6810
+Irkutsk: Irkutsk-Passazhirskiy - 52.3000, 104.3000
+Astrakhan: Astrakhan-1 - 46.3483, 48.0469
+Naberezhnye Chelny: Vokzal Naberezhnye Chelny - 55.7454, 52.3964
+Tula: Tulsky Vokzal - 54.2025, 37.6158
+Lipetsk: Lipetsk-1 - 52.6121, 39.5992
+Stavropol: Stavropol-Glavny - 45.0446, 41.9790
+Kaluga: Kaluga-1 - 54.5152, 36.2649
+Krasnodar: Krasnodar-1 - 45.0350, 38.9760
